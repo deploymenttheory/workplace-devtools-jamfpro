@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Complete Enhanced macOS Network Connectivity Interrogator
+macOS Network Connectivity Interrogator
 The macOS equivalent of Windows NCSI with comprehensive diagnostics
 Now includes interaction with core macOS networking services
 """
