@@ -1,12 +1,12 @@
 module deploymenttheory/workplace-devtools-jamfpro
 
-go 1.23.0
+go 1.24.0
 
 toolchain go1.24.4
 
 require (
 	github.com/mmcdole/gofeed v1.3.0
-	golang.org/x/net v0.41.0
+	golang.org/x/net v0.44.0
 )
 
 require (
@@ -16,5 +16,5 @@ require (
 	github.com/mmcdole/goxpp v1.1.1-0.20240225020742-a0c311522b23 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.2 // indirect
-	golang.org/x/text v0.26.0 // indirect
+	golang.org/x/text v0.29.0 // indirect
 )
